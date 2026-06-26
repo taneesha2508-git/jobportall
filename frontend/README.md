@@ -38,7 +38,7 @@ Multer
 Cloudinary
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/taneesha2508-git/jobportal.git cd jobportal
+git clone https://github.com/taneesha2508-git/jobportall.git cd jobportall
 
 2. Install Backend Dependencies
 cd backend npm install
